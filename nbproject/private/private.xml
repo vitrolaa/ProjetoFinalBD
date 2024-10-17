@@ -3,11 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/aluno.saolucas/Documents/projetinhos%20do%20arthuzito/ProjetoFinal/src/br/com/Views/TelaPrincipal.java</file>
-            <file>file:/C:/Users/aluno.saolucas/Documents/projetinhos%20do%20arthuzito/ProjetoFinal/src/br/com/Views/TelaLogin.java</file>
-            <file>file:/C:/Users/aluno.saolucas/Documents/projetinhos%20do%20arthuzito/ProjetoFinal/src/br/com/DTO/UsuarioDTO.java</file>
             <file>file:/C:/Users/aluno.saolucas/Documents/projetinhos%20do%20arthuzito/ProjetoFinal/src/br/com/DAO/ClienteDAO.java</file>
-            <file>file:/C:/Users/aluno.saolucas/Documents/projetinhos%20do%20arthuzito/ProjetoFinal/src/br/com/Views/TelaUsuario.java</file>
+            <file>file:/C:/Users/aluno.saolucas/Documents/projetinhos%20do%20arthuzito/ProjetoFinal/src/br/com/Views/TelaCliente.java</file>
+            <file>file:/C:/Users/aluno.saolucas/Documents/projetinhos%20do%20arthuzito/ProjetoFinal/src/br/com/DTO/ClienteDTO.java</file>
             <file>file:/C:/Users/aluno.saolucas/Documents/projetinhos%20do%20arthuzito/ProjetoFinal/src/br/com/DAO/ConexaoDAO.java</file>
             <file>file:/C:/Users/aluno.saolucas/Documents/projetinhos%20do%20arthuzito/ProjetoFinal/src/br/com/DAO/UsuarioDAO.java</file>
         </group>
