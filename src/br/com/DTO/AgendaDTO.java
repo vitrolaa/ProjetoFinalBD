@@ -4,7 +4,7 @@ import java.sql.Date;
 
 public class AgendaDTO {
 
-    int id_agenda;
+    public int id_agenda;
     private String descricao, email, nome, data;
 
     public int getId_agenda() {
@@ -46,6 +46,5 @@ public class AgendaDTO {
     public void setData(String data) {
         this.data = data;
     }
-    
-    
+
 }
